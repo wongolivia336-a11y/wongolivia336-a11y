@@ -1,69 +1,104 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BDE7FF,45:F9CFE8,100:D8C7FF&height=190&section=header&text=Hi,%20I'm%20Olivia&fontSize=46&fontColor=263238&animation=fadeIn&fontAlignY=38" alt="Hi, I'm Olivia" />
-</p>
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <sub>OLIVIA WONG · 王奥莉</sub>
+      <h1>Design-led,<br/>AI-native product builder.</h1>
+      <p>
+        I turn complex ideas into thoughtful, working products —<br/>
+        from problem framing and interaction design to shipped software.
+      </p>
+      <p><sub>以设计为起点，用产品判断选择问题，用工程能力把体验真正做出来。</sub></p>
+      <p>
+        <a href="mailto:wongolivia336@gmail.com">Email</a>
+        &nbsp;·&nbsp; LinkedIn <sup>coming soon</sup>
+        &nbsp;·&nbsp; Portfolio <sup>coming soon</sup>
+      </p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="assets/olivia-line-portrait.png" width="190" alt="Blue line portrait illustration of Olivia Wong" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">Learning in public, building with care.</h3>
-<p align="center"><sub>在公开学习中成长，用细节把想法做出来。</sub></p>
+### I like building where things are still a little unclear.
 
-<p align="center">
-  <a href="mailto:wongolivia336@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BDE7FF?style=flat-square&logo=gmail&logoColor=263238&labelColor=F9CFE8" alt="Email" />
-  </a>
-  <a href="https://github.com/wongolivia336-a11y">
-    <img src="https://img.shields.io/badge/GitHub-wongolivia336--a11y-D8C7FF?style=flat-square&logo=github&logoColor=263238&labelColor=BDE7FF" alt="GitHub" />
-  </a>
-</p>
+My work moves between **AI for Science**, explainable interfaces, health tools, and curiosity-led experiments. The subjects change; the question underneath stays the same: **how can complex technology feel clear, useful, and human?**
 
-## About Me
+<sub>我关注 AI for Science、可解释界面、健康工具，也会做一些由好奇心驱动的实验。题目可以变化，但底层的问题始终一致：如何让复杂技术变得清晰、可用，也更有人味？</sub>
 
-Hi, I'm Olivia. I'm learning frontend development, AI-assisted workflows, and product design by building small, thoughtful things in public.
+---
 
-<sub>你好，我是 Olivia。我正在通过一个个小项目学习前端、AI 工具流和产品设计，希望把想法做得清楚、好看、可用。</sub>
+## Selected work · 代表作品
 
-- Currently learning: frontend development, GitHub workflows, and AI product building
-- Exploring: product design, automation, visual systems, and human-centered tools
-- Style I like: professional cute, baby blue, soft pink, lavender, and clean details
-- Contact: [wongolivia336@gmail.com](mailto:wongolivia336@gmail.com)
+### 01 — [meow gallery](https://github.com/wongolivia336-a11y/cat-meow-gallery) ↗
 
-## Little Focus Board
+**A tiny cross-platform rest ritual made from real cat sounds.**<br/>
+Not an audio manager and not another productivity timer: a desktop pet that turns recordings into bubbles you can pop when it is time to pause.
 
-| Currently Learning | Exploring | Building Next |
-| --- | --- | --- |
-| HTML, CSS, JavaScript | AI-assisted workflows | Small web apps |
-| GitHub and project READMEs | Product thinking | Polished prototypes |
-| Frontend layout basics | Visual design systems | Useful experiments |
+<sub>把真实猫叫变成声音泡泡的跨端休息仪式。覆盖角色、交互、动效、Web、Windows 桌宠、Android 与私有云同步。</sub>
 
-<sub>现在的重点：稳稳打基础，同时练习把作品整理成别人能看懂、愿意继续看的样子。</sub>
+`Product direction` · `Interaction design` · `Character & motion` · `Cross-platform engineering`
 
-## Tech Stack
+[Live web](https://domi-meow-gallery.vercel.app/) · [Repository](https://github.com/wongolivia336-a11y/cat-meow-gallery)
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-BDE7FF?style=flat-square&logo=html5&logoColor=263238" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-F9CFE8?style=flat-square&logo=css3&logoColor=263238" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-D8C7FF?style=flat-square&logo=javascript&logoColor=263238" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-BDE7FF?style=flat-square&logo=python&logoColor=263238" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F9CFE8?style=flat-square&logo=git&logoColor=263238" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-D8C7FF?style=flat-square&logo=github&logoColor=263238" alt="GitHub" />
-</p>
+---
 
-## Future Builds
+### 02 — [BioAZ Agent Workbench](https://github.com/wongolivia336-a11y/bioaz-agent-workbench) ↗
 
-| Idea | Why it matters |
+**Making complex scientific workflows understandable and actionable.**<br/>
+A product prototype for coordinating AI teammates across project context, task planning, human checkpoints, scientific deliverables, and retained knowledge.
+
+<sub>真实实习中的 AI for Science 产品探索：用渐进式披露、可解释协作和关键确认点，把复杂科研工作流变成可理解、可推进的产品体验。</sub>
+
+`AI for Science` · `Explainable AI` · `Progressive disclosure` · `Product prototyping`
+
+[Live prototype](https://prototype-bioaz-agent-workbench.vercel.app/) · [Repository](https://github.com/wongolivia336-a11y/bioaz-agent-workbench)
+
+---
+
+### 03 — [Healther](https://github.com/wongolivia336-a11y/healther) ↗
+
+**A local-first health companion designed without adding anxiety.**<br/>
+Medication reminders, health records, follow-up preparation, and carefully bounded health information — designed around privacy and responsible UX.
+
+<sub>一个本地优先的长期健康管理助手。它不替用户诊断，而是克制地做好提醒、记录、整理和理解。</sub>
+
+`Product strategy` · `Responsible UX` · `Local-first privacy` · `Mobile engineering`
+
+[Repository](https://github.com/wongolivia336-a11y/healther)
+
+---
+
+## Curiosity-led experiments · 好奇心实验
+
+Some projects begin with a brief. Others begin with a poem, a character, or a question I cannot stop thinking about.
+
+<sub>有些项目从需求开始，也有些从一首诗、一个角色，或一个挥之不去的问题开始。</sub>
+
+| Now / 现在 | Next / 接下来 |
 | --- | --- |
-| Personal portfolio page | Practice visual layout, responsive design, and storytelling |
-| AI-assisted study tool | Explore practical AI workflows that help with real learning |
-| Tiny frontend experiments | Build consistency through small, polished shipped pieces |
-| Product prototype collection | Turn ideas into clear screens, flows, and interaction notes |
+| **DMPK & tumor-report agents** — interaction studies inside the wider BioAZ workbench | **Zhang Zao Poetry Gallery** — exploring poetry, space, rhythm, and digital reading |
+| **BioAZ invitation system** — visual communication for scientific collaboration | **Psychologist Café** — conversational philosopher and psychologist personas |
 
-<sub>项目会慢慢补上。先保持诚实、清晰、持续更新。</sub>
+---
 
-## GitHub Activity
+## How I work · 我的工作方式
+
+| Frame | Design | Build | Learn |
+| --- | --- | --- | --- |
+| Find the real problem beneath the feature request. | Make complexity visible without making it overwhelming. | Prototype deeply enough that the product can be felt, not just explained. | Put it in front of reality, then revise the judgment — not only the pixels. |
+| 找到功能请求背后的真实问题。 | 让复杂性可见，但不让它压倒用户。 | 把原型做深，让产品可以被体验，而不只被描述。 | 让作品接触真实世界，再修正判断，而不只是像素。 |
+
+<br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wongolivia336-a11y&show_icons=true&theme=transparent&hide_border=true&title_color=7DBBE8&icon_color=F2A7CC&text_color=263238" alt="Olivia's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongolivia336-a11y&layout=compact&theme=transparent&hide_border=true&title_color=7DBBE8&text_color=263238" alt="Olivia's top languages" />
+  <i>AI expands what one person can own.<br/>Taste and judgment still decide what is worth building.</i>
+  <br/><br/>
+  <sub>AI 扩大一个人能够负责的边界，而审美与判断仍决定什么值得被做出来。</sub>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C7FF,45:F9CFE8,100:BDE7FF&height=110&section=footer" alt="Footer wave" />
-</p>
+<!--
+When ready, replace the two "coming soon" labels in the hero with:
+- LinkedIn: https://www.linkedin.com/in/YOUR-HANDLE/
+- Portfolio: your final public portfolio URL
+-->
