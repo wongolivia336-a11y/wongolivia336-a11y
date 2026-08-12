@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 265" role="img" aria-labelledby="t d">
+  <title id="t">Healther</title><desc id="d">Selected project card for a responsible local-first health companion.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#f0fff8"/><stop offset="1" stop-color="#fffbed"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="13" flood-color="#617c62" flood-opacity=".12"/></filter></defs>
+  <rect x="20" y="18" width="1160" height="225" rx="34" fill="url(#g)" stroke="#dcebdc" filter="url(#s)"/>
+  <circle cx="1070" cy="63" r="125" fill="#7de0b2" opacity=".2"/><circle cx="1140" cy="218" r="105" fill="#f4d66e" opacity=".2"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" fill="#29372f"><text x="72" y="72" font-size="17" font-weight="700" letter-spacing="3" fill="#3a9871">03 · SELECTED WORK</text><text x="72" y="130" font-size="42" font-weight="750">Healther</text><text x="72" y="170" font-size="20" fill="#607266">A local-first health companion designed without adding anxiety.</text><text x="72" y="207" font-size="16" fill="#718479">RESPONSIBLE UX · LOCAL-FIRST PRIVACY · MOBILE ENGINEERING</text></g>
+  <g transform="translate(1020 67)" fill="#fff" stroke="#479b78" stroke-width="4"><path d="M59 130C-3 94-20 47 10 25c21-16 43-4 49 13 7-17 29-29 50-13 30 22 12 69-50 105Z"/><path d="M22 75h23l10-24 15 49 12-25h22" fill="none" stroke-linejoin="round"/></g>
+</svg>

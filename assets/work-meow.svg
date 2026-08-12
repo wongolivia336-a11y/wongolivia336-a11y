@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 265" role="img" aria-labelledby="t d">
+  <title id="t">meow gallery</title><desc id="d">Selected project card for a cross-platform cat-sound rest ritual.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#fff1f7"/><stop offset="1" stop-color="#edf9ff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="13" flood-color="#7d5975" flood-opacity=".12"/></filter></defs>
+  <rect x="20" y="18" width="1160" height="225" rx="34" fill="url(#g)" stroke="#f1dce8" filter="url(#s)"/>
+  <circle cx="1060" cy="80" r="120" fill="#ffacd1" opacity=".24"/><circle cx="1120" cy="206" r="95" fill="#82d9ff" opacity=".2"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" fill="#302d38"><text x="72" y="72" font-size="17" font-weight="700" letter-spacing="3" fill="#c2588a">01 · SELECTED WORK</text><text x="72" y="130" font-size="42" font-weight="750">meow gallery</text><text x="72" y="170" font-size="20" fill="#665e6a">A tiny cross-platform rest ritual made from real cat sounds.</text><text x="72" y="207" font-size="16" fill="#8b7180">PRODUCT · INTERACTION · CHARACTER &amp; MOTION · ENGINEERING</text></g>
+  <g transform="translate(988 89)" stroke="#514754" stroke-width="5" fill="#fff" stroke-linecap="round"><path d="M9 65C-4 22 27 0 62 10c34-13 67 10 55 55-9 33-31 46-55 46S18 98 9 65Z"/><path d="M18 30 12 2l28 16m67 12 6-28-28 16"/><path d="M37 61c7 5 13 5 20 0m12 0c7 5 13 5 20 0M52 83c7 6 15 6 22 0" fill="none"/></g>
+</svg>

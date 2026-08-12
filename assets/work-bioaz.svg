@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 265" role="img" aria-labelledby="t d">
+  <title id="t">BioAZ Agent Workbench</title><desc id="d">Selected project card for explainable AI in scientific workflows.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#edfaff"/><stop offset="1" stop-color="#f2f5ff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="13" flood-color="#436a83" flood-opacity=".12"/></filter></defs>
+  <rect x="20" y="18" width="1160" height="225" rx="34" fill="url(#g)" stroke="#d5eaf3" filter="url(#s)"/>
+  <circle cx="1070" cy="63" r="125" fill="#71d9e5" opacity=".2"/><circle cx="1140" cy="218" r="105" fill="#7ba5ff" opacity=".18"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" fill="#253442"><text x="72" y="72" font-size="17" font-weight="700" letter-spacing="3" fill="#318a9c">02 · SELECTED WORK</text><text x="72" y="130" font-size="42" font-weight="750">BioAZ Agent Workbench</text><text x="72" y="170" font-size="20" fill="#566c78">Making complex scientific workflows understandable and actionable.</text><text x="72" y="207" font-size="16" fill="#67818c">AI FOR SCIENCE · EXPLAINABLE AI · PROGRESSIVE DISCLOSURE</text></g>
+  <g transform="translate(995 68)" fill="none" stroke="#337e91" stroke-width="4"><circle cx="62" cy="62" r="19" fill="#fff"/><circle cx="10" cy="20" r="9" fill="#fff"/><circle cx="119" cy="17" r="9" fill="#fff"/><circle cx="126" cy="111" r="9" fill="#fff"/><circle cx="6" cy="112" r="9" fill="#fff"/><path d="m19 25 28 25m53-25L78 48m33 57L78 77m-59 29 29-30"/></g>
+</svg>
