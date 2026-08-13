@@ -58,17 +58,18 @@ Medication reminders, health records, follow-up preparation, and carefully bound
 
 ## Curiosity-led experiments · 好奇心实验
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>✦ Now · 现在</h3>
-      <p><b>DMPK & tumor-report agents</b><br/><sub>Interaction studies inside the wider BioAZ workbench.</sub></p>
-      <p><b>BioAZ invitation system</b><br/><sub>Visual communication for scientific collaboration.</sub></p>
+      <p><b><a href="https://github.com/wongolivia336-a11y/dmpk-agent">DMPK Agent ↗</a></b><br/><sub>Interaction design for scientific quotation workflows.</sub></p>
+      <p><b><a href="https://github.com/wongolivia336-a11y/tumor-report-agent-prototype-">Tumor Report Agent ↗</a></b><br/><sub>Explainable, checkpoint-led report generation.</sub></p>
+      <p><b><a href="https://github.com/wongolivia336-a11y/BioAZ-invitation-template">BioAZ Invitation System ↗</a></b><br/><sub>Visual communication for scientific collaboration.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>◌ Next · 接下来</h3>
-      <p><b>Zhang Zao Poetry Gallery</b><br/><sub>Poetry, space, rhythm, and digital reading.</sub></p>
-      <p><b>Psychologist Café</b><br/><sub>Conversational philosopher and psychologist personas.</sub></p>
+      <h3>◌ In the garden · 生长中</h3>
+      <p><b>Zhang Zao Poetry Gallery</b> <sup>upcoming</sup><br/><sub>Poetry, space, rhythm, and digital reading.</sub></p>
+      <p><b>Psychologist Café</b> <sup>upcoming</sup><br/><sub>Conversational philosopher and psychologist personas.</sub></p>
     </td>
   </tr>
 </table>
