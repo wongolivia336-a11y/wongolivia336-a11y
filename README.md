@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/olivia-line-portrait.png" width="112" alt="Blue line portrait illustration of Olivia Wong" />
-</p>
-
-<p align="center">
   <a href="mailto:wongolivia336@gmail.com"><b>Email</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp; LinkedIn <sup>coming soon</sup>
   &nbsp;&nbsp;·&nbsp;&nbsp; Portfolio <sup>coming soon</sup>
