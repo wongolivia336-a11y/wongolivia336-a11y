@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 265" role="img" aria-labelledby="t d">
+  <title id="t">All about me</title><desc id="d">Selected project card for a personal site built as a 3D study.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#fff6ea"/><stop offset="1" stop-color="#f3f1fb"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="13" flood-color="#8a6a45" flood-opacity=".12"/></filter></defs>
+  <rect x="20" y="18" width="1160" height="225" rx="34" fill="url(#g)" stroke="#eedecc" filter="url(#s)"/>
+  <circle cx="1068" cy="66" r="124" fill="#f0b96a" opacity=".22"/><circle cx="1138" cy="214" r="102" fill="#9aa8d8" opacity=".18"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" fill="#33291d"><text x="72" y="72" font-size="17" font-weight="700" letter-spacing="3" fill="#b07c33">04 · SELECTED WORK</text><text x="72" y="130" font-size="42" font-weight="750">All about me</text><text x="72" y="170" font-size="20" fill="#6d5f4e">A personal site built as a 3D study you can look around.</text><text x="72" y="207" font-size="16" fill="#8a7862">3D WEB · REAL-TIME RENDERING · SPATIAL INTERACTION</text></g>
+  <g transform="translate(1002 62)" fill="none" stroke="#a8712f" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 134h128"/>
+    <ellipse cx="38" cy="131" rx="21" ry="4.5" fill="#fff"/>
+    <path d="M38 127V62"/>
+    <path d="M38 62 88 47"/>
+    <path d="M74 10h30l16 37H58Z" fill="#fff"/>
+    <path d="M72 60v9M89 62v9M106 60v9" opacity=".5"/>
+  </g>
+</svg>

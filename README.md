@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="mailto:wongolivia336@gmail.com"><b>Email</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://all-about-me-phi.vercel.app/"><b>Portfolio</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp; LinkedIn <sup>coming soon</sup>
-  &nbsp;&nbsp;·&nbsp;&nbsp; Portfolio <sup>coming soon</sup>
 </p>
 
 <br/>
@@ -56,6 +56,18 @@ Medication reminders, health records, follow-up preparation, and carefully bound
 
 <br/>
 
+<a href="https://github.com/wongolivia336-a11y/All-about-me">
+  <img src="assets/work-study.svg" width="100%" alt="All about me — a personal site built as a 3D study" />
+</a>
+
+Not a grid of thumbnails: a room. Every piece of content sits on a physical object — the laptop holds web work and live GitHub, the phone holds writing, the open book holds the portfolio, the shelf holds reading notes, the wall holds a film shelf.
+
+<sub>一个把内容装进 3D 书房的个人网站。房间完全由基础几何体搭成，没有导入任何模型——质感来自材质响应和柔光灯组，而不是模型精度。作品集 PDF 在页面内直接翻阅。</sub>
+
+[Live site](https://all-about-me-phi.vercel.app/) · [View repository →](https://github.com/wongolivia336-a11y/All-about-me)
+
+<br/>
+
 ## Curiosity-led experiments · 好奇心实验
 
 <table width="100%">
@@ -93,4 +105,4 @@ Medication reminders, health records, follow-up preparation, and carefully bound
   <sub>AI 扩大一个人能够负责的边界，而审美与判断仍决定什么值得被做出来。</sub>
 </p>
 
-<!-- Replace the two coming-soon labels when LinkedIn and portfolio URLs are ready. -->
+<!-- Replace the LinkedIn coming-soon label when that URL is ready. -->
