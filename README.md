@@ -60,9 +60,9 @@ Medication reminders, health records, follow-up preparation, and carefully bound
   <img src="assets/work-study.svg" width="100%" alt="All about me — a personal site built as a 3D study" />
 </a>
 
-Not a grid of thumbnails: a room. Every piece of content sits on a physical object — the laptop holds web work and live GitHub, the phone holds writing, the open book holds the portfolio, the shelf holds reading notes, the wall holds a film shelf.
+Not a grid of thumbnails: a room you look around. Every piece of content sits on an object — the laptop holds web work and a live GitHub feed, the phone holds writing, the open book turns the portfolio PDF in place, the shelf holds reading, the wall holds a set of film posters, and the desk lamp switches the whole room to evening.
 
-<sub>一个把内容装进 3D 书房的个人网站。房间完全由基础几何体搭成，没有导入任何模型——质感来自材质响应和柔光灯组，而不是模型精度。作品集 PDF 在页面内直接翻阅。</sub>
+<sub>一个把内容装进 3D 书房的个人网站。房间全部由基础几何体搭成，没有导入任何模型——木纹、织物与墙面都是运行时生成的贴图，质感来自材质响应和环境光遮蔽，而不是模型精度。墙上那套片单海报也是画出来的。</sub>
 
 [Live site](https://all-about-me-phi.vercel.app/) · [View repository →](https://github.com/wongolivia336-a11y/All-about-me)
 
@@ -77,11 +77,11 @@ Not a grid of thumbnails: a room. Every piece of content sits on a physical obje
       <p><b><a href="https://github.com/wongolivia336-a11y/dmpk-agent">DMPK Agent ↗</a></b><br/><sub>Interaction design for scientific quotation workflows.</sub></p>
       <p><b><a href="https://github.com/wongolivia336-a11y/tumor-report-agent-prototype-">Tumor Report Agent ↗</a></b><br/><sub>Explainable, checkpoint-led report generation.</sub></p>
       <p><b><a href="https://github.com/wongolivia336-a11y/BioAZ-invitation-template">BioAZ Invitation System ↗</a></b><br/><sub>Visual communication for scientific collaboration.</sub></p>
+      <p><b><a href="https://github.com/wongolivia336-a11y/Psychologist-Cafe">Psychologist Café ↗</a></b><br/><sub>Conversational philosopher and psychologist personas. <a href="https://psychologist-cafe.vercel.app">Live ↗</a></sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>◌ In the garden · 生长中</h3>
       <p><b>Zhang Zao Poetry Gallery</b> <sup>upcoming</sup><br/><sub>Poetry, space, rhythm, and digital reading.</sub></p>
-      <p><b>Psychologist Café</b> <sup>upcoming</sup><br/><sub>Conversational philosopher and psychologist personas.</sub></p>
     </td>
   </tr>
 </table>
